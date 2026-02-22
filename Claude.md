@@ -7,7 +7,7 @@ Boris Cherny (creator of Claude Code at Anthropic) shared on X internal best pra
 ## It includes:
 
 - •  Workflow orchestration
-•  Subagent strategy
+- •  Subagent strategy
 •  Self-improvement loop
 •  Verification before done
 •  Autonomous bug fixing
