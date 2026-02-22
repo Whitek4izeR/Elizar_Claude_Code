@@ -16,4 +16,4 @@ This is a compounding system. Every correction you make gets captured as a rule.
 
 If you build with AI daily, this will save you a lot of time
 
-![Uploading image.png…]()
+![Alt text](Assets/Claude.jpg)
