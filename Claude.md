@@ -15,5 +15,6 @@ It includes:
 This is a compounding system. Every correction you make gets captured as a rule. Over time, Claude's mistake rate drops because it learns from your feedback.
 
 If you build with AI daily, this will save you a lot of time
-
+Source:https://www.facebook.com/share/p/18MSCvXGR4/
+[Link](https://www.facebook.com/share/p/18MSCvXGR4/)
 ![Alt text](Assets/Claude.jpg)
