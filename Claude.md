@@ -6,12 +6,12 @@ Boris Cherny (creator of Claude Code at Anthropic) shared on X internal best pra
 
 ## It includes:
 
-- •  Workflow orchestration
-- •  Subagent strategy
-•  Self-improvement loop
-•  Verification before done
-•  Autonomous bug fixing
-•  Core principles
+- Workflow orchestration
+- Subagent strategy
+- Self-improvement loop
+- Verification before done
+- Autonomous bug fixing
+- Core principles
 
 This is a compounding system. Every correction you make gets captured as a rule. Over time, Claude's mistake rate drops because it learns from your feedback.
 
