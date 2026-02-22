@@ -4,7 +4,7 @@ It combines all the best practices shared by Claude Code creator:
 
 Boris Cherny (creator of Claude Code at Anthropic) shared on X internal best practices and workflows he and his team actually use with Claude Code daily. Someone turned those threads into a structured 𝗖𝗟𝗔𝗨𝗗𝗘.𝗺𝗱 you can drop into any project.
 
-It includes:
+## It includes:
 • Workflow orchestration
 • Subagent strategy
 • Self-improvement loop
